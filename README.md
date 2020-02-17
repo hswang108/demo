@@ -1,7 +1,7 @@
 # demo
 名稱/n
-機器學習實戰：基於 Scikit-Learn 和 TensorFlow (Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques for Building Intelligent Systems)/n
-推薦系統：原理與實踐/n
+機器學習實戰：基於 Scikit-Learn 和 TensorFlow (Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques for Building Intelligent Systems) 
+推薦系統：原理與實踐 
 新 SQL 基礎講座, 2/e
 資料探勘 (Han: Data Mining: Concepts and Techniques, 3/e )
 視覺化資料：100%全腦吸收大數據，直入神經元, 2/e
